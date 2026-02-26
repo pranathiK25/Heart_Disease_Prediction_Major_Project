@@ -9,9 +9,50 @@ This project can assist in early detection and clinical decision support.
 
 ---
 
+---
+
 ## 🚀 Run the Project in Google Colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pranathiK25/Heart_Disease_Prediction_Major_Project/blob/main/Copy_of_Heart_Disease_Prediction.ipynb)
+You can open and run the notebook directly in **Google Colab**:
+
+👉 **Open Notebook in Colab:**  
+https://colab.research.google.com/drive/17pGTN1vvIPnNzPAhyLEwVVFULjv6hTaU?usp=sharing#scrollTo=l2prd7_NPDTw
+
+---
+
+### ⚠️ Important: Dataset Required Before Running
+
+Before executing the notebook in Colab, you must upload the dataset file:
+
+📁 `heart_data.csv`
+
+#### Steps:
+1. Download `heart_data.csv` from this repository.
+2. Open the Colab notebook.
+3. Click the **folder icon (📁) on the left sidebar**.
+4. Click **Upload**.
+5. Upload `heart_data.csv`.
+6. Then run all cells.
+
+---
+
+### 📊 What the Notebook Includes
+
+- Exploratory Data Analysis (EDA)
+- Missing value analysis
+- Data preprocessing and encoding
+- Train-test split
+- Model training:
+  - Logistic Regression
+  - SVM (RBF)
+  - Random Forest
+  - XGBoost
+- Model comparison (Accuracy, Precision, Recall, F1, ROC-AUC)
+- ROC Curve visualization
+- Classification report
+- Feature importance analysis
+
+---
 
 ---
 
