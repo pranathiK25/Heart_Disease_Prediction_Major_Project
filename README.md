@@ -114,7 +114,7 @@ The model can help in early risk identification and decision support in healthca
 
 **Pranathi K**
 
-Machine Learning Enthusiast  
+This project is created for educational purposes as part of BTech Final Year Major Project.
 B.Tech Student  
 
 ---
